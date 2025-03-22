@@ -9,6 +9,7 @@ The MPRPC framework primarily includes the content of the following two sections
 
 ### Project Architecture Diagram
 ![d3a21f1ae959f1b3876fbe08130f4cc](https://github.com/user-attachments/assets/70984e4f-30be-422b-ba4e-913257bba66f)
+
 ### QuickStart
 This project runs on Linux and requires the following dependencies:
 - Zookeeper 3.4.10 and above
