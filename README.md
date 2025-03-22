@@ -10,5 +10,12 @@ The MPRPC framework primarily includes the content of the following two sections
 ### Project Architecture Diagram
 ![13e425432c3e379132edde527c6ebe3](https://github.com/user-attachments/assets/221a6b22-1f15-4939-ac26-9df9ba956ab6)
 ### QuickStart
+This project runs on Linux and requires the following dependencies:
+- Zookeeper 3.4.10 and above
+- Muduo Network Library
+- CMake 3.0 and above
+- C++11
 
-
+```sh
+./autobuild.sh
+```
