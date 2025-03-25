@@ -8,8 +8,7 @@ The MPRPC framework primarily includes the content of the following two sections
 - Purple Section: Network part, including locating the RPC service host, initiating RPC call requests, and responding to RPC call results, using the **Muduo** network library and **Zookeeper** service configuration center.
 
 ### Program Execution Sequence Diagram
-![4bee8815c837bfcaeb3e304cf8ca078](https://github.com/user-attachments/assets/85e65056-329f-44f9-be22-c2a5f9355571)
-
+![7107a36cf38b910afdd92dd7fc5bcbc](https://github.com/user-attachments/assets/1ad211ea-f6d4-433a-8e06-53cf70584352)
 
 ### QuickStart
 This project runs on Linux and requires the following dependencies:
