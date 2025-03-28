@@ -17,7 +17,7 @@ This project runs on Linux and requires the following dependencies:
 - Zookeeper 3.4.10 and above
 - Muduo Network Library
 - CMake 3.0 and above
-- C++11
+- g++ 4.8.1 and above
 
 Ensure all necessary dependencies are installed, run the autobuild script:
 ```sh
