@@ -10,9 +10,6 @@ The MPRPC framework primarily includes the content of the following two sections
 
 Developed based on the Muduo network library and Protobuf, hence named mprpc.
 
-### Program Execution Sequence Diagram
-![7107a36cf38b910afdd92dd7fc5bcbc](https://github.com/user-attachments/assets/1ad211ea-f6d4-433a-8e06-53cf70584352)
-
 ### QuickStart
 This project runs on Linux and requires the following dependencies:
 - Zookeeper 3.4.10 and above
